@@ -1,0 +1,9 @@
+footer{
+    background-image: url("/imgs/blackboard.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    & img{
+        width: 100%;
+    }
+}
